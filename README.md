@@ -67,6 +67,6 @@ The configuration of the other tools is in the "containers-confs/files" director
 
 Lead Developer - Julien TALBOURDET (@Talbourdet)
 
-## Liscence
+## Licence
 
 The MIT License (MIT)
